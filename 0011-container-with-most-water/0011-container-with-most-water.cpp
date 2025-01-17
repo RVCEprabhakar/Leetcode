@@ -7,7 +7,7 @@ public:
         int left=0;
         int right=n-1;
         while(left<right){
-            maxarea=max(maxarea, (right-left) * min(height[left],height[right]));
+        maxarea=max(maxarea, (right-left) * min(height[left],height[right]));
         if(height[left]<height[right]){
             left++;
         }
