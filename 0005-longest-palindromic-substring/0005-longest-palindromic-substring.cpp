@@ -1,38 +1,30 @@
 class Solution {
 public:
-    std::string longestPalindrome(std::string s) {
-        if (s.length() <= 1) {
-            return s;
-        }
-        
-        int max_len = 1;
-        std::string max_str = s.substr(0, 1);
-        
-        for (int i = 0; i < s.length(); ++i) {
-            for (int j = i + max_len; j <= s.length(); ++j) {
-                if (j - i > max_len && isPalindrome(s.substr(i, j - i))) {
-                    max_len = j - i;
-                    max_str = s.substr(i, j - i);
+    string longestPalindrome(string s) {
+        int n = s.size();
+        if (n <= 1) return s;  // If only one character, return it directly.
+
+        string longest = "";
+
+        for (int i = 0; i < n; i++) {  // Start index of substring
+            for (int j = i; j < n; j++) {  // End index of substring
+                if (isPalindrome(s, i, j)) {  // Check if substring is palindrome
+                    if (j - i + 1 > longest.size()) {  // Update longest palindrome
+                        longest = s.substr(i, j - i + 1);
+                    }
                 }
             }
         }
-
-        return max_str;
+        return longest;
     }
 
 private:
-    bool isPalindrome(const std::string& str) {
-        int left = 0;
-        int right = str.length() - 1;
-        
+    bool isPalindrome(string& s, int left, int right) {
         while (left < right) {
-            if (str[left] != str[right]) {
-                return false;
-            }
-            ++left;
-            --right;
+            if (s[left] != s[right]) return false;
+            left++;
+            right--;
         }
-        
         return true;
     }
 };
