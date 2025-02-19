@@ -1,20 +1,16 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
+        string result;
         
-    
-        string temp = "";
-        int i = 0;
-        
-        while (i < s.length()) {
-            if (temp.empty() || s[i] != temp.back()) {
-                temp.push_back(s[i]);
+        for (char ch : s) {
+            if (!result.empty() && result.back() == ch) {
+                result.pop_back();  // Remove the duplicate
             } else {
-                temp.pop_back();
+                result.push_back(ch);  // Add to result if no adjacent duplicate
             }
-            i++;
         }
         
-        return temp;
+        return result;
     }
 };
