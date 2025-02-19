@@ -10,8 +10,6 @@ public:
             ans+=strs[0][i];
             else break; 
         }
-        return ans;
-
-        
+        return ans; 
     }
 };
