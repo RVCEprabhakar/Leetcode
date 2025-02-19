@@ -2,7 +2,7 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n = s.size();
-        if (n <= 1) return s;  // If only one character, return it directly.
+        // if (n <= 1) return s;  // If only one character, return it directly.
 
         string longest = "";
 
