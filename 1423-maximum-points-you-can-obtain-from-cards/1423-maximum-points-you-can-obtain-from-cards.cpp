@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxScore(vector<int>& cardPoints, int k) {
+        
         int n = cardPoints.size(); 
         // Step 1: Calculate the sum of the last k cards (taking them from the right end of the array)
         int total = 0;
@@ -8,6 +9,8 @@ public:
             total += cardPoints[i];  // Summing the last k cards
         }
         int maxScore = total;  // This is our initial max score
+
+
 
 
         // Step 2: Sliding window approach
