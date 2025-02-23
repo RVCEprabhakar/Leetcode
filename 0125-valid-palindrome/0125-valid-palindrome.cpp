@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        // here we are applying hte two pointer appraches here
+        int n=s.length();
         int left=0;
-        int right=s.size()-1;
+        int right=n-1;
         while(left<right){
             if(!isalnum(s[left])){
                 left++;
@@ -16,12 +16,15 @@ public:
             else if(tolower(s[left])!=tolower(s[right]))
             return false;
             else{
-                left++;
+                 left++;
                 right--;
+
             }
+
+            
+
         }
         return true;
-
 
         
     }
