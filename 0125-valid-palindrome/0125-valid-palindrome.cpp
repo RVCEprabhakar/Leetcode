@@ -20,8 +20,7 @@ public:
                 right--;
 
             }
-
-            
+ 
 
         }
         return true;
