@@ -29,8 +29,5 @@ public:
             ans.push_back(lastnode);
         }
         return ans;
-        
-
-
     }
 };
