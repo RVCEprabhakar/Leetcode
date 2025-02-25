@@ -12,6 +12,7 @@
 class Solution {
 public:
 int maxgain(TreeNode* root,int &maxi){
+
     if(root==NULL){
         return 0;
     }
