@@ -1,5 +1,14 @@
 class Solution {
 public:
+
+bool isPalindrome(string& s, int left, int right) {
+        while (left < right) {
+            if (s[left] != s[right]) return false;
+            left++;
+            right--;
+        }
+        return true;
+    }
     string longestPalindrome(string s) {
         int n = s.size();
         // if (n <= 1) return s;  // If only one character, return it directly.
@@ -18,13 +27,6 @@ public:
         return longest;
     }
 
-private:
-    bool isPalindrome(string& s, int left, int right) {
-        while (left < right) {
-            if (s[left] != s[right]) return false;
-            left++;
-            right--;
-        }
-        return true;
-    }
+
+    
 };
