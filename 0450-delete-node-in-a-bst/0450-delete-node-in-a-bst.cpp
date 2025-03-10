@@ -25,8 +25,6 @@ public:
                         root->val = temp->val;  
                         root->left = deleteNode(root->left, temp->val);
 
-
-
         }
         return root;
     }
