@@ -1,7 +1,6 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-
         //here we are using the hash table
         int n=s.size();
         int count=0;
