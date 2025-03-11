@@ -17,6 +17,7 @@ bool isMirror(TreeNode* left, TreeNode* right) {
         return (left->val == right->val) &&  // Values must be equal
                isMirror(left->left, right->right) &&  // Left subtree of left should match right subtree of right
                isMirror(left->right, right->left);    // Right subtree of left should match left subtree of right
+
     }
     bool isSymmetric(TreeNode* root) {
         if (!root) return true; // An empty tree is symmetric
