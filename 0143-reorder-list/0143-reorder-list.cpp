@@ -13,7 +13,9 @@ public:
         }
 
         int i = 0, j = v.size() - 1;
+
         while (i < j) {
+            
             v[i]->next = v[j];  // Connect first with last
             i++;
 
