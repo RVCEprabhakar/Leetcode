@@ -2,14 +2,23 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
 
-        int n=nums.size();
-        int sum=n*(n+1)/2;
-        int s2=0;
-        for(int i=0;i<n;i++){
-            s2+=nums[i];
-            
+ int n = nums.size();
+        unordered_map<int, int> numMap;
+
+        // Count the occurrences of each number in the map
+        for (int num : nums) {
+            numMap[num]++;
         }
-        return sum-s2;
-        
+
+        // Find the missing number
+        for (int i = 0; i <= n; i++) {
+            if (numMap[i] == 0) {
+                return i; // Missing number
+            }
+        }
+
+        return -1; // This line won't be reached as there is always a missing number
     }
+        
+    
 };
