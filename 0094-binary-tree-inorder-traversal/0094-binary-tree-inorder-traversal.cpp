@@ -13,7 +13,6 @@ class Solution {
 public:
 void inno(TreeNode* root,vector<int>&ans){
     if(root == NULL) return ;
-
     inno(root->left,ans);
     ans.push_back(root->val);
     inno(root->right,ans);
