@@ -7,16 +7,16 @@ class Solution {
         // Arrays.sort(nums1);
   
 
-  ArrayList<Integer> a1=new ArrayList<>();
-  for(int n1:nums1){
-    a1.add(n);
-  }
-   for(int n1:nums2){
-    a1.add(n);
-  }
+//   ArrayList<Integer> a1=new ArrayList<>();
+//   for(int n1:nums1){
+//     a1.add(n1);
+//   }
+//    for(int n1:nums2){
+//     a1.add(n1);
+//   }
 
-  Collections.sort(a1);
-  
+//   Collections.sort(a1);
+
   for(int i=0;i<n;i++){
    nums1[m+i]=nums2[i];
   }
