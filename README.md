@@ -44,6 +44,7 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RVCEprabhakar/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/RVCEprabhakar/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/RVCEprabhakar/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/RVCEprabhakar/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
@@ -58,4 +59,8 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/RVCEprabhakar/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
