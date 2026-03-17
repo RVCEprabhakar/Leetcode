@@ -4,12 +4,11 @@ class Solution {
 
         Stack<Character> stack = new Stack<>();
         char[] ch=s.toCharArray();
-        for(char c : ch){
 
+        for(char c : ch){
             if(c == '(' || c == '{' || c == '['){
                 stack.push(c);
             } 
-
             else {
                 if(stack.isEmpty()) {
                       return false;
@@ -20,7 +19,6 @@ class Solution {
                 }
             }
         }
-
         return stack.isEmpty();
     }
 }
