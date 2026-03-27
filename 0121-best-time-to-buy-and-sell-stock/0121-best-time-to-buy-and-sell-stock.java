@@ -4,12 +4,12 @@ class Solution {
         int profit=0;
         int mini=Integer.MAX_VALUE;
 
-        for(int price:prices){
-            if(price<mini){
-                mini=price;
+        for(int p:prices){
+            if(p<mini){
+                mini=p;
             }
             else{
-                profit=Math.max(profit,price-mini);
+                profit=Math.max(profit,p-mini);
             }
 
 
