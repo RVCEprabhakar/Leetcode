@@ -12,6 +12,7 @@ go through this is enough
 | [0088-merge-sorted-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RVCEprabhakar/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/RVCEprabhakar/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RVCEprabhakar/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -59,6 +60,7 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +82,8 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/RVCEprabhakar/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
