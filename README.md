@@ -15,6 +15,7 @@ go through this is enough
 | [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/RVCEprabhakar/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RVCEprabhakar/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@ go through this is enough
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/RVCEprabhakar/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RVCEprabhakar/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@ go through this is enough
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/RVCEprabhakar/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +89,13 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
