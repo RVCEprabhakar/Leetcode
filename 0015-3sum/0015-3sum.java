@@ -3,7 +3,6 @@ class Solution {
         List<List<Integer>>res=new ArrayList<>();
 
         Arrays.sort(nums);
-
         for(int i=0;i<nums.length;i++){
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
@@ -26,7 +25,7 @@ class Solution {
                     res.add(Arrays.asList(nums[i],nums[j],nums[k]));
                     j++;
 
-                    while(nums[j]==nums[j-1] && j<k){
+                    while(  j<k && nums[j]==nums[j-1]){
                         j++;
                     }
                 }
