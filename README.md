@@ -12,6 +12,7 @@ go through this is enough
 | [0018-4sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/RVCEprabhakar/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/RVCEprabhakar/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/RVCEprabhakar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RVCEprabhakar/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -50,6 +51,7 @@ go through this is enough
 | [0015-3sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/RVCEprabhakar/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0075-sort-colors](https://github.com/RVCEprabhakar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -72,6 +74,7 @@ go through this is enough
 | [0011-container-with-most-water](https://github.com/RVCEprabhakar/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/RVCEprabhakar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Counting
@@ -112,4 +115,12 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/RVCEprabhakar/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RVCEprabhakar/Leetcode/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/RVCEprabhakar/Leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
