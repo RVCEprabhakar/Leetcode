@@ -23,6 +23,7 @@ go through this is enough
 | [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/RVCEprabhakar/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0881-boats-to-save-people](https://github.com/RVCEprabhakar/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RVCEprabhakar/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +114,7 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +136,8 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/RVCEprabhakar/Leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
