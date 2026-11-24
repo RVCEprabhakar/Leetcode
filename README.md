@@ -19,6 +19,7 @@ go through this is enough
 | [0169-majority-element](https://github.com/RVCEprabhakar/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/RVCEprabhakar/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/RVCEprabhakar/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RVCEprabhakar/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -72,6 +73,7 @@ go through this is enough
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RVCEprabhakar/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -113,6 +115,7 @@ go through this is enough
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/RVCEprabhakar/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Bit Manipulation
@@ -139,5 +142,6 @@ go through this is enough
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RVCEprabhakar/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/RVCEprabhakar/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
